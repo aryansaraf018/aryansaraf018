@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Latency Aware Load Balancing<br>I'm looking to collaborate on GenAI, Distributed systems<br>I'm looking for help with LLMs<br>Ask me about DevOPS, Network Engineering<br>
+I'm currently working on Latency Aware Load Balancing<br>I'm looking to collaborate on GenAI, Distributed systems<br><br>Ask me about DevOPS, Network Engineering<br>
 
 
 ## 🌐 Socials:
